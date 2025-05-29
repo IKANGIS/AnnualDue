@@ -734,13 +734,13 @@ td
 	mso-pattern:black none;}
 .xl141
 	{mso-style-parent:style0;
-	color:white;
+	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
-	border-top:.5pt solid #002060;
+	border-top:none;
 	border-right:.5pt solid #002060;
-	border-bottom:1.0pt solid #002060;
-	border-left:1.0pt solid #002060;
-	background:#1F4E78;
+	border-bottom:.5pt solid #002060;
+	border-left:.5pt solid #002060;
+	background:#E2EFDA;
 	mso-pattern:black none;}
 .xl142
 	{mso-style-parent:style0;
@@ -750,27 +750,48 @@ td
 	border-right:.5pt solid #002060;
 	border-bottom:none;
 	border-left:.5pt solid #002060;
-	background:#E2EFDA;
+	background:#E2F0D9;
 	mso-pattern:black none;}
 .xl143
 	{mso-style-parent:style0;
+	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
 	border-top:none;
-	border-right:none;
-	border-bottom:none;
+	border-right:.5pt solid #002060;
+	border-bottom:1.0pt solid #002060;
 	border-left:.5pt solid #002060;
-	background:#DDEBF7;
+	background:#E2F0D9;
 	mso-pattern:black none;}
 .xl144
 	{mso-style-parent:style0;
+	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
-	border-top:none;
-	border-right:1.0pt solid #002060;
+	border-top:1.0pt solid #002060;
+	border-right:.5pt solid #002060;
 	border-bottom:none;
 	border-left:.5pt solid #002060;
-	background:#DDEBF7;
+	background:#E2F0D9;
 	mso-pattern:black none;}
 .xl145
+	{mso-style-parent:style0;
+	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
+	text-align:center;
+	border-top:.5pt solid #002060;
+	border-right:.5pt solid #002060;
+	border-bottom:none;
+	border-left:.5pt solid #002060;
+	background:#E2F0D9;
+	mso-pattern:black none;}
+.xl146
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid #002060;
+	border-bottom:.5pt solid #002060;
+	border-left:.5pt solid #002060;
+	background:#E2F0D9;
+	mso-pattern:black none;}
+.xl147
 	{mso-style-parent:style0;
 	color:#548235;
 	font-size:18.0pt;
@@ -779,44 +800,23 @@ td
 	text-align:center;
 	background:#EDEDED;
 	mso-pattern:black none;}
-.xl146
-	{mso-style-parent:style0;
-	color:black;
-	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
-	text-align:center;
-	border-top:.5pt solid #002060;
-	border-right:.5pt solid #002060;
-	border-bottom:none;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
-	mso-pattern:black none;}
-.xl147
-	{mso-style-parent:style0;
-	color:black;
-	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
-	text-align:center;
-	border-top:none;
-	border-right:.5pt solid #002060;
-	border-bottom:none;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
-	mso-pattern:black none;}
 .xl148
 	{mso-style-parent:style0;
 	color:black;
 	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
-	border-top:none;
+	border-top:.5pt solid #002060;
 	border-right:.5pt solid #002060;
-	border-bottom:.5pt solid #002060;
+	border-bottom:none;
 	border-left:.5pt solid #002060;
 	background:#E2F0D9;
 	mso-pattern:black none;}
 .xl149
 	{mso-style-parent:style0;
+	color:black;
 	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
-	border-top:.5pt solid #002060;
+	border-top:none;
 	border-right:.5pt solid #002060;
 	border-bottom:none;
 	border-left:.5pt solid #002060;
@@ -824,11 +824,12 @@ td
 	mso-pattern:black none;}
 .xl150
 	{mso-style-parent:style0;
+	color:black;
 	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
 	border-top:none;
 	border-right:.5pt solid #002060;
-	border-bottom:none;
+	border-bottom:.5pt solid #002060;
 	border-left:.5pt solid #002060;
 	background:#E2F0D9;
 	mso-pattern:black none;}
@@ -925,7 +926,7 @@ td
 	text-align:center;
 	border-top:none;
 	border-right:.5pt solid #002060;
-	border-bottom:.5pt solid #002060;
+	border-bottom:none;
 	border-left:.5pt solid #002060;
 	background:#E2EFDA;
 	mso-pattern:black none;}
@@ -937,24 +938,5 @@ td
 	border-right:.5pt solid #002060;
 	border-bottom:1.0pt solid #002060;
 	border-left:.5pt solid #002060;
-	background:#E2F0D9;
-	mso-pattern:black none;}
-.xl162
-	{mso-style-parent:style0;
-	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
-	text-align:center;
-	border-top:1.0pt solid #002060;
-	border-right:.5pt solid #002060;
-	border-bottom:none;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
-	mso-pattern:black none;}
-.xl163
-	{mso-style-parent:style0;
-	text-align:center;
-	border-top:none;
-	border-right:.5pt solid #002060;
-	border-bottom:.5pt solid #002060;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
+	background:#E2EFDA;
 	mso-pattern:black none;}
