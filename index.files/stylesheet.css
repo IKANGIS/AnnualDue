@@ -632,15 +632,6 @@ td
 .xl130
 	{mso-style-parent:style0;
 	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
-	border-top:1.0pt solid #002060;
-	border-right:.5pt solid #002060;
-	border-bottom:none;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
-	mso-pattern:black none;}
-.xl131
-	{mso-style-parent:style0;
-	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
 	text-align:center;
 	border-top:none;
 	border-right:.5pt solid #002060;
@@ -648,7 +639,7 @@ td
 	border-left:.5pt solid #002060;
 	background:#E2EFDA;
 	mso-pattern:black none;}
-.xl132
+.xl131
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:none;
@@ -657,7 +648,7 @@ td
 	border-left:.5pt solid #002060;
 	background:#DDEBF7;
 	mso-pattern:black none;}
-.xl133
+.xl132
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:none;
@@ -665,6 +656,15 @@ td
 	border-bottom:none;
 	border-left:.5pt solid #002060;
 	background:#DDEBF7;
+	mso-pattern:black none;}
+.xl133
+	{mso-style-parent:style0;
+	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
+	border-top:none;
+	border-right:.5pt solid #002060;
+	border-bottom:none;
+	border-left:.5pt solid #002060;
+	background:#E2F0D9;
 	mso-pattern:black none;}
 .xl134
 	{mso-style-parent:style0;
@@ -833,14 +833,4 @@ td
 	border-bottom:.5pt solid #002060;
 	border-left:none;
 	background:#FFC000;
-	mso-pattern:black none;}
-.xl151
-	{mso-style-parent:style0;
-	mso-number-format:"mm\0022岿\0022\\ dd\0022老\0022";
-	text-align:center;
-	border-top:none;
-	border-right:.5pt solid #002060;
-	border-bottom:1.0pt solid #002060;
-	border-left:.5pt solid #002060;
-	background:#E2F0D9;
 	mso-pattern:black none;}
